@@ -1,1 +1,1 @@
-# Churn-Intelligence
+# Churn-Intelligence using Unsupervised and Supervised Learning Strategy
